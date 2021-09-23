@@ -1,30 +1,8 @@
-## Visioni del mondo | Laboratorio di filosofia
-
 Officina delle filosofie è un progetto di didattica della filosofia centrata sui testi ed a carattere interculturale. Non è un manuale di filosofia; nasce, anzi, dalla convinzione che nulla danneggi l'insegnamento della filosofia (e in genenerale l'insegnamento) quanto il manuale, ossia un testo nel quale il sapere è già sistemato, pronto per essere trasmesso dal docente allo studente. Più, forse, di altre discipline, la filosofia esige un lavoro diverso: l'interpretazione dei testi ed il confronto dialogico. ODF intende offrire strumenti per un lavoro complesso, forse anche difficile ma, piace pensare, molto più gratificante dello studio manualistico. Leggi il progetto.
 
-### Markdown
+# Il Samkhya
+Considerato il più antico sistema filosofico indiano, il Samkhya getta le basi teoriche per la millenaria pratica dello Yoga. Secondo il Samkhya, è possibile raggiungere la liberazione dalla condizione umana, piena di sofferenza, attraverso la conoscenza e la comprensione analitica della realtà, che consente di cogliere l’esistenza di due principi, la Natura (Prakriti) e lo Spirito (Purusha), dal cui incontro nasce la realtà fenomenica. Il seguace del Samkhya scopre di non essere l’individualità psicofisica, l’insieme di sensi, corpo e mente, ma lo Spirito, libero da ogni legame naturale. [Leggi]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
