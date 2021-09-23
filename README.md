@@ -1,8 +1,6 @@
 ## Visioni del mondo | Laboratorio di filosofia
 
-You can use the [editor on GitHub](https://github.com/visionidelmondo/lab/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Officina delle filosofie è un progetto di didattica della filosofia centrata sui testi ed a carattere interculturale. Non è un manuale di filosofia; nasce, anzi, dalla convinzione che nulla danneggi l'insegnamento della filosofia (e in genenerale l'insegnamento) quanto il manuale, ossia un testo nel quale il sapere è già sistemato, pronto per essere trasmesso dal docente allo studente. Più, forse, di altre discipline, la filosofia esige un lavoro diverso: l'interpretazione dei testi ed il confronto dialogico. ODF intende offrire strumenti per un lavoro complesso, forse anche difficile ma, piace pensare, molto più gratificante dello studio manualistico. Leggi il progetto.
 
 ### Markdown
 
