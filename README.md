@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Visioni del mondo | Laboratorio di filosofia
 
 You can use the [editor on GitHub](https://github.com/visionidelmondo/lab/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
